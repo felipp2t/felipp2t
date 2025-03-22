@@ -2,9 +2,9 @@
 
 **`Desenvolvedor front-end`**
 
-Formado em **Técnico em Informática** pelo
-CEDUP - Abílio Paulo e atualmente
-cursando **Engenharia de Software** pela UniSatc. Dedico-me à área de desenvolvimento, com foco em **front-end**.
+- Formado em **Técnico em Informática** pelo
+CEDUP - Abílio Paulo
+- Atualmente cursando **Engenharia de Software** pela UniSATC. Dedico-me à área de desenvolvimento, com foco em **front-end**.
 
 ### ⚒️Techs:
 
