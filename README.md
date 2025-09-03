@@ -32,8 +32,4 @@ CEDUP - Abílio Paulo
 [![Threads](https://img.shields.io/badge/Threads-000000?style=Plastice&logo=Threads&logoColor=white)](https://www.threads.com/felipp2t)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=Plastic&logo=gmail&logoColor=white)](mailto:felipp.2t@gmail.com)
 
-### 🤖 Contribuições:
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=felipp2t&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
-
 
