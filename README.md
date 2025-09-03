@@ -1,4 +1,4 @@
-# 👨‍💻 Felipe Rossetto
+# Felipe Rossetto
 
 **`Desenvolvedor front-end`**
 
