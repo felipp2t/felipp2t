@@ -2,8 +2,8 @@
 
 **`Desenvolvedor Full-stack`**
 
-- Formado em **Técnico em Informática**
-- Atualmente cursando segundo período de **Engenharia de Software** pela UniSatc. Dedico-me à área de desenvolvimento, com foco em **front-end**.
+- Formado em Técnico em Informática
+- Atualmente cursando segundo período de Engenharia de Software pela UniSatc. Dedico-me à área de desenvolvimento, com foco em **front-end**.
 
 ### ⚒️Techs:
 
