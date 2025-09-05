@@ -26,11 +26,3 @@ CEDUP - Abílio Paulo
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
 
-
-### 🌀 Social:
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=Plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipp2t)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=Plastic&logo=Instagram&logoColor=white)](https://www.instagram.com/felipp2t)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=Plastic&logo=gmail&logoColor=white)](mailto:felipp.2t@gmail.com)
-
-
