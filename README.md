@@ -24,5 +24,3 @@
 [![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipp2t&show_icons=true&theme=rose_pine)
