@@ -6,9 +6,9 @@ Trabalho principalmente com React, Svelte e TypeScript no front-end, Node.js e F
 
 ## Projetos
 
-- [Rootly](https://github.com/felipp2t/rootly) — organização de conhecimento para times.
-- [IncidentLab](https://github.com/felipp2t/incident-lab) — laboratório de detecção e resposta a incidentes.
-- [FinOps Pipeline](https://github.com/felipp2t/finops-pipeline) — pipeline de dados para FinOps.
+- [Rootly](https://github.com/felipp2t/rootly): organização de conhecimento para times.
+- [IncidentLab](https://github.com/felipp2t/incident-lab): laboratório de detecção e resposta a incidentes.
+- [FinOps Pipeline](https://github.com/felipp2t/finops-pipeline): pipeline de dados para FinOps.
 
 ## Contato
 
