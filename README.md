@@ -2,7 +2,7 @@
 
 Desenvolvedor full-stack com foco em front-end. Estudo Engenharia de Software na UniSatc e sou técnico em Informática.
 
-Trabalho principalmente com React, Svelte e TypeScript no front-end, Node.js e Fastify no back-end. Também estudo engenharia de dados.
+Trabalho principalmente com React e TypeScript no front-end, Node.js e Fastify no back-end. Também estudo engenharia de dados.
 
 ## Projetos
 
